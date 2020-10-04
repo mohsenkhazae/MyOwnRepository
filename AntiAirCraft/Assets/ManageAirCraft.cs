@@ -10,7 +10,7 @@ public class ManageAirCraft : MonoBehaviour
     public GameObject[] airCraftObject;
     public List<AirCraft> airCraft;
     public AirCraft currentAirCraft;
-   // private int indexAir=0;
+    private int indexAir = 0;
     public bool[] Lines;
     public float heightLines = 8;
     // Start is called before the first frame update
@@ -32,8 +32,8 @@ public class ManageAirCraft : MonoBehaviour
     {
         int AirType = Random.Range(0, airCraftObject.Length);
         int Point = Random.Range(0, spawnPoint.Length);
+
         GameObject cloneAirCraft = Instantiate(airCraftObject[AirType], spawnPoint[Point].transform.position, spawnPoint[Point].transform.rotation);
-        //airCraft.Add(cloneAirCraft.GetComponent<AirCraft>());
         currentAirCraft = cloneAirCraft.GetComponent<AirCraft>();
         currentAirCraft.currentLine = 0;
         
@@ -48,6 +48,6 @@ public class ManageAirCraft : MonoBehaviour
         currentAirCraft.leftPoint = spawnPoint[0].transform;
         currentAirCraft.rightPoint = spawnPoint[1].transform;
         currentAirCraft.letMove = true;
-       // indexAir++;
+        indexAir++;
     }
 }

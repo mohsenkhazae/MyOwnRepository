@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-10-04T10:36:46.634+03:30
-  initializedAtString: 2020-10-04T10:36:46.634+03:30
+  lastUpdatedAtString: 2020-10-04T11:39:48.643+03:30
+  initializedAtString: 2020-10-04T11:39:48.643+03:30
   currentGitRemote:
-    name: 
-    url: 
+    name: origin
+    url: https://github.com/mohsenkhazae/khazaee.git
     login: 
     user: 
     host: 
@@ -33,6 +33,6 @@ MonoBehaviour:
       url: 
     trackingBranch: 
   currentConfigRemote:
-    name: 
-    url: 
+    name: origin
+    url: https://github.com/mohsenkhazae/khazaee.git
   currentHead: 

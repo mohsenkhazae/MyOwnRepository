@@ -16,6 +16,7 @@ public class AirCraft : MonoBehaviour
     public ManageAirCraft manageAirCraft;
     public LayerMask layerMask;
     public GameObject bomb;
+    public GameObject bombPoint;
 
     // Start is called before the first frame update
     void Start()
@@ -40,13 +41,13 @@ public class AirCraft : MonoBehaviour
             switch (direction)
             {
                 case Direction.east:
-                    if (transform.position.x < leftPoint.transform.position.x)
+                    if (transform.position.x > leftPoint.transform.position.x)
                     {
                         ChangeLine();
                     }
                     break;
                 case Direction.west:
-                    if (transform.position.x > rightPoint.transform.position.x)
+                    if (transform.position.x < rightPoint.transform.position.x)
                     {
                         ChangeLine();
                     }
@@ -60,7 +61,7 @@ public class AirCraft : MonoBehaviour
             {
                 if (hit.collider.tag == "target")
                 {
-                    GameObject cloneAirCraft = Instantiate(bomb, transform.position,transform.rotation);
+                    GameObject cloneAirCraft = Instantiate(bomb, bombPoint.transform.position, bombPoint.transform.rotation);
                     cloneAirCraft.GetComponent<Rigidbody>().AddForce(Vector3.up * -500);
                     bombing = false;
                 }
