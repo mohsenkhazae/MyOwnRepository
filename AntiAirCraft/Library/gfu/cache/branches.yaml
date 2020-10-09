@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1666186674, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 2
+  lastUpdatedAtString: 2020-10-09T03:38:55.894+03:30
+  initializedAtString: 2020-10-09T03:38:55.783+03:30
+  localBranches:
+  - name: master
+    tracking: 
+  remoteBranches:
+  - name: khazaee/master
+    tracking: '[None]'
+  remotes:
+  - name: origin
+    url: https://gitlab.com/tortoisegit/tortoisegit.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  - name: khazaee
+    url: https://github.com/mohsenkhazae/MyOwnRepository.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  localConfigBranches:
+    keys:
+    - master
+    values:
+    - name: master
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
+  remoteConfigBranches:
+    keys:
+    - khazaee
+    subKeys:
+    - Values:
+      - master
+    subKeyValues:
+    - Values:
+      - name: master
+        remote:
+          name: khazaee
+          url: https://github.com/mohsenkhazae/MyOwnRepository.git
+        trackingBranch: 
+  configRemotes:
+    keys:
+    - origin
+    - khazaee
+    values:
+    - name: origin
+      url: https://gitlab.com/tortoisegit/tortoisegit.git
+    - name: khazaee
+      url: https://github.com/mohsenkhazae/MyOwnRepository.git
