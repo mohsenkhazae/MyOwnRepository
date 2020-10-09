@@ -1402,7 +1402,7 @@ GameObject:
   - component: {fileID: 1494858887031620131}
   m_Layer: 2
   m_Name: SM_Veh_Plane_American_01
-  m_TagString: Untagged
+  m_TagString: AirCraft
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1498,7 +1498,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentLine: 0
-  speed: 40
+  speed: 50
   direction: 0
   move: 0
   letMove: 0

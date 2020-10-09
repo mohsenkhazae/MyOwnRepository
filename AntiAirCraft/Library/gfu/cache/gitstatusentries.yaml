@@ -13,966 +13,1068 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-10-04T13:06:11.333+03:30
-  initializedAtString: 2020-10-04T11:39:50.638+03:30
+  lastUpdatedAtString: 2020-10-09T03:10:01.382+03:30
+  initializedAtString: 2020-10-08T13:16:19.117+03:30
   entries:
+  - path: AntiAircraft\.vs\AntiAircraft\v15\.suo
+    fullPath: D:\Repository\AntiAircraft\.vs\AntiAircraft\v15\.suo
+    projectPath: .vs\AntiAircraft\v15\.suo
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 3
+  - path: AntiAirCraft\.vs\AntiAirCraft\v15\.suo
+    fullPath: D:\Repository\AntiAirCraft\.vs\AntiAirCraft\v15\.suo
+    projectPath: .vs\AntiAirCraft\v15\.suo
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAircraft\.vs\AntiAircraft\v15\Server\sqlite3\db.lock
+    fullPath: D:\Repository\AntiAircraft\.vs\AntiAircraft\v15\Server\sqlite3\db.lock
+    projectPath: .vs\AntiAircraft\v15\Server\sqlite3\db.lock
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: AntiAirCraft\.vs\AntiAirCraft\v15\Server\sqlite3\storage.ide
+    fullPath: D:\Repository\AntiAirCraft\.vs\AntiAirCraft\v15\Server\sqlite3\storage.ide
+    projectPath: .vs\AntiAirCraft\v15\Server\sqlite3\storage.ide
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: AntiAirCraft\.vs\AntiAirCraft\v15\Server\sqlite3\storage.ide-shm
-    fullPath: E:\repos2\AntiAirCraft\.vs\AntiAirCraft\v15\Server\sqlite3\storage.ide-shm
+    fullPath: D:\Repository\AntiAirCraft\.vs\AntiAirCraft\v15\Server\sqlite3\storage.ide-shm
     projectPath: .vs\AntiAirCraft\v15\Server\sqlite3\storage.ide-shm
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: AntiAirCraft\.vs\AntiAirCraft\v15\Server\sqlite3\storage.ide-wal
-    fullPath: E:\repos2\AntiAirCraft\.vs\AntiAirCraft\v15\Server\sqlite3\storage.ide-wal
+    fullPath: D:\Repository\AntiAirCraft\.vs\AntiAirCraft\v15\Server\sqlite3\storage.ide-wal
     projectPath: .vs\AntiAirCraft\v15\Server\sqlite3\storage.ide-wal
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: AntiAircraft\.vs\test\v15\.suo
+    fullPath: D:\Repository\AntiAircraft\.vs\test\v15\.suo
+    projectPath: .vs\test\v15\.suo
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: AntiAircraft\.vs\test\v15\Server\sqlite3\storage.ide-wal
+    fullPath: D:\Repository\AntiAircraft\.vs\test\v15\Server\sqlite3\storage.ide-wal
+    projectPath: .vs\test\v15\Server\sqlite3\storage.ide-wal
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: AntiAircraft\AntiAircraft.sln
+    fullPath: D:\Repository\AntiAircraft\AntiAircraft.sln
+    projectPath: AntiAircraft.sln
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 3
+  - path: AntiAircraft\Assembly-CSharp.csproj
+    fullPath: D:\Repository\AntiAircraft\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 3
+  - path: AntiAirCraft\Assembly-CSharp.csproj
+    fullPath: D:\Repository\AntiAirCraft\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Assembly-CSharp-Editor.csproj
+    fullPath: D:\Repository\AntiAirCraft\Assembly-CSharp-Editor.csproj
+    projectPath: Assembly-CSharp-Editor.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAircraft\Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: D:\Repository\AntiAircraft\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 3
+  - path: AntiAirCraft\Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: D:\Repository\AntiAirCraft\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAircraft\Assets\AirCraft.cs
+    fullPath: D:\Repository\AntiAircraft\Assets\AirCraft.cs
+    projectPath: Assets\AirCraft.cs
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 5
+  - path: AntiAirCraft\Assets\AirCraft.cs
+    fullPath: D:\Repository\AntiAirCraft\Assets\AirCraft.cs
+    projectPath: Assets\AirCraft.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: AntiAirCraft\Assets\AirCraft.cs.meta
+    fullPath: D:\Repository\AntiAirCraft\Assets\AirCraft.cs.meta
+    projectPath: Assets\AirCraft.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: AntiAirCraft\Assets\Artillery.cs
+    fullPath: D:\Repository\AntiAirCraft\Assets\Artillery.cs
+    projectPath: Assets\Artillery.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: AntiAirCraft\Assets\Artillery.cs.meta
+    fullPath: D:\Repository\AntiAirCraft\Assets\Artillery.cs.meta
+    projectPath: Assets\Artillery.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: AntiAirCraft\Assets\explosion.cs
+    fullPath: D:\Repository\AntiAirCraft\Assets\explosion.cs
+    projectPath: Assets\explosion.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: AntiAirCraft\Assets\explosion.cs.meta
+    fullPath: D:\Repository\AntiAirCraft\Assets\explosion.cs.meta
+    projectPath: Assets\explosion.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: AntiAirCraft\Assets\Game Assets\Prefabs\AirCraft\SM_Veh_Plane_American_01.prefab
+    fullPath: D:\Repository\AntiAirCraft\Assets\Game Assets\Prefabs\AirCraft\SM_Veh_Plane_American_01.prefab
+    projectPath: Assets\Game Assets\Prefabs\AirCraft\SM_Veh_Plane_American_01.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Assets\Game Assets\Prefabs\AirCraft\SM_Veh_Plane_England_01.prefab
+    fullPath: D:\Repository\AntiAirCraft\Assets\Game Assets\Prefabs\AirCraft\SM_Veh_Plane_England_01.prefab
+    projectPath: Assets\Game Assets\Prefabs\AirCraft\SM_Veh_Plane_England_01.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Assets\Game Assets\Prefabs\AirCraft\SM_Veh_Plane_German_02.prefab
+    fullPath: D:\Repository\AntiAirCraft\Assets\Game Assets\Prefabs\AirCraft\SM_Veh_Plane_German_02.prefab
+    projectPath: Assets\Game Assets\Prefabs\AirCraft\SM_Veh_Plane_German_02.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Assets\Game Assets\script.meta
+    fullPath: D:\Repository\AntiAirCraft\Assets\Game Assets\script.meta
+    projectPath: Assets\Game Assets\script.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AntiAirCraft\Assets\Game Assets\script\AirCraft.cs
+    fullPath: D:\Repository\AntiAirCraft\Assets\Game Assets\script\AirCraft.cs
+    projectPath: Assets\Game Assets\script\AirCraft.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AntiAirCraft\Assets\Game Assets\script\AirCraft.cs.meta
+    fullPath: D:\Repository\AntiAirCraft\Assets\Game Assets\script\AirCraft.cs.meta
+    projectPath: Assets\Game Assets\script\AirCraft.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AntiAirCraft\Assets\Game Assets\script\Artillery.cs
+    fullPath: D:\Repository\AntiAirCraft\Assets\Game Assets\script\Artillery.cs
+    projectPath: Assets\Game Assets\script\Artillery.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AntiAirCraft\Assets\Game Assets\script\Artillery.cs.meta
+    fullPath: D:\Repository\AntiAirCraft\Assets\Game Assets\script\Artillery.cs.meta
+    projectPath: Assets\Game Assets\script\Artillery.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AntiAirCraft\Assets\Game Assets\script\explosion.cs
+    fullPath: D:\Repository\AntiAirCraft\Assets\Game Assets\script\explosion.cs
+    projectPath: Assets\Game Assets\script\explosion.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AntiAirCraft\Assets\Game Assets\script\explosion.cs.meta
+    fullPath: D:\Repository\AntiAirCraft\Assets\Game Assets\script\explosion.cs.meta
+    projectPath: Assets\Game Assets\script\explosion.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AntiAirCraft\Assets\Game Assets\script\ManageAirCraft.cs
+    fullPath: D:\Repository\AntiAirCraft\Assets\Game Assets\script\ManageAirCraft.cs
+    projectPath: Assets\Game Assets\script\ManageAirCraft.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AntiAirCraft\Assets\Game Assets\script\ManageAirCraft.cs.meta
+    fullPath: D:\Repository\AntiAirCraft\Assets\Game Assets\script\ManageAirCraft.cs.meta
+    projectPath: Assets\Game Assets\script\ManageAirCraft.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AntiAirCraft\Assets\ManageAirCraft.cs
+    fullPath: D:\Repository\AntiAirCraft\Assets\ManageAirCraft.cs
+    projectPath: Assets\ManageAirCraft.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: AntiAirCraft\Assets\ManageAirCraft.cs.meta
+    fullPath: D:\Repository\AntiAirCraft\Assets\ManageAirCraft.cs.meta
+    projectPath: Assets\ManageAirCraft.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: AntiAirCraft\Assets\Scenes\GameScene.unity
+    fullPath: D:\Repository\AntiAirCraft\Assets\Scenes\GameScene.unity
+    projectPath: Assets\Scenes\GameScene.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AntiAirCraft\Assets\Scenes\GameScene.unity.meta
+    fullPath: D:\Repository\AntiAirCraft\Assets\Scenes\GameScene.unity.meta
+    projectPath: Assets\Scenes\GameScene.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AntiAirCraft\Assets\Scenes\SampleScene.unity
+    fullPath: D:\Repository\AntiAirCraft\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: AntiAirCraft\Assets\Scenes\SampleScene.unity.meta
+    fullPath: D:\Repository\AntiAirCraft\Assets\Scenes\SampleScene.unity.meta
+    projectPath: Assets\Scenes\SampleScene.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: AntiAirCraft\Library\assetDatabase3
+    fullPath: D:\Repository\AntiAirCraft\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\AssetImportState
+    fullPath: D:\Repository\AntiAirCraft\Library\AssetImportState
+    projectPath: Library\AssetImportState
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\CurrentLayout.dwlt
+    fullPath: D:\Repository\AntiAirCraft\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: AntiAirCraft\Library\EditorInstance.json
-    fullPath: E:\repos2\AntiAirCraft\Library\EditorInstance.json
+    fullPath: D:\Repository\AntiAirCraft\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AntiAirCraft\Library\gfu\cache\branches.yaml
-    fullPath: E:\repos2\AntiAirCraft\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
+  - path: AntiAirCraft\Library\EditorUserBuildSettings.asset
+    fullPath: D:\Repository\AntiAirCraft\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\expandedItems
+    fullPath: D:\Repository\AntiAirCraft\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: AntiAirCraft\Library\gfu\cache\gitlocks.yaml
-    fullPath: E:\repos2\AntiAirCraft\Library\gfu\cache\gitlocks.yaml
+    fullPath: D:\Repository\AntiAirCraft\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: AntiAirCraft\Library\gfu\cache\gitlog.yaml
-    fullPath: E:\repos2\AntiAirCraft\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: AntiAirCraft\Library\gfu\cache\gitstatusentries.yaml
-    fullPath: E:\repos2\AntiAirCraft\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\Repository\AntiAirCraft\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: AntiAirCraft\Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: E:\repos2\AntiAirCraft\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\Repository\AntiAirCraft\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: AntiAirCraft\Library\ShaderCache\0\072eec2d1dfb3d28a7365218d5c4bae7.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\0\072eec2d1dfb3d28a7365218d5c4bae7.bin
-    projectPath: Library\ShaderCache\0\072eec2d1dfb3d28a7365218d5c4bae7.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\0\07ef8e343bc656058d5ac2b67d349418.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\0\07ef8e343bc656058d5ac2b67d349418.bin
-    projectPath: Library\ShaderCache\0\07ef8e343bc656058d5ac2b67d349418.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\0\09dc06e153a9a9346088d84afd75eaf2.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\0\09dc06e153a9a9346088d84afd75eaf2.bin
-    projectPath: Library\ShaderCache\0\09dc06e153a9a9346088d84afd75eaf2.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\0\0a5aa5f3947ff1a1c0f1d68bf47f92cb.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\0\0a5aa5f3947ff1a1c0f1d68bf47f92cb.bin
-    projectPath: Library\ShaderCache\0\0a5aa5f3947ff1a1c0f1d68bf47f92cb.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\0\0a68147d750c6b0f33b79d167847d436.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\0\0a68147d750c6b0f33b79d167847d436.bin
-    projectPath: Library\ShaderCache\0\0a68147d750c6b0f33b79d167847d436.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\0\0b2fe976ccd5dcd7bde88d62422e7d22.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\0\0b2fe976ccd5dcd7bde88d62422e7d22.bin
-    projectPath: Library\ShaderCache\0\0b2fe976ccd5dcd7bde88d62422e7d22.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\0\0b53ccd36ed343cf63a43afce3d5fc47.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\0\0b53ccd36ed343cf63a43afce3d5fc47.bin
-    projectPath: Library\ShaderCache\0\0b53ccd36ed343cf63a43afce3d5fc47.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\0\0bf6b2284ed5803e455e3ff1c1684e54.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\0\0bf6b2284ed5803e455e3ff1c1684e54.bin
-    projectPath: Library\ShaderCache\0\0bf6b2284ed5803e455e3ff1c1684e54.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\1\1091d950a36cdcc2f51bbec28f45013c.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\1\1091d950a36cdcc2f51bbec28f45013c.bin
-    projectPath: Library\ShaderCache\1\1091d950a36cdcc2f51bbec28f45013c.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\1\10d7247b315f68db1e1e8d3bdea01567.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\1\10d7247b315f68db1e1e8d3bdea01567.bin
-    projectPath: Library\ShaderCache\1\10d7247b315f68db1e1e8d3bdea01567.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\1\113e3442324d8b10118de6520e32f59f.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\1\113e3442324d8b10118de6520e32f59f.bin
-    projectPath: Library\ShaderCache\1\113e3442324d8b10118de6520e32f59f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\1\123ba2dd6ef247bf00e4195d32c08fbd.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\1\123ba2dd6ef247bf00e4195d32c08fbd.bin
-    projectPath: Library\ShaderCache\1\123ba2dd6ef247bf00e4195d32c08fbd.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\1\12f376c1e15667982be8185ac4387413.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\1\12f376c1e15667982be8185ac4387413.bin
-    projectPath: Library\ShaderCache\1\12f376c1e15667982be8185ac4387413.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\1\148eb4b167bfffd79971fdd9e57289da.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\1\148eb4b167bfffd79971fdd9e57289da.bin
-    projectPath: Library\ShaderCache\1\148eb4b167bfffd79971fdd9e57289da.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\1\14b32ecd3ecf48806cb41d5c8def231a.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\1\14b32ecd3ecf48806cb41d5c8def231a.bin
-    projectPath: Library\ShaderCache\1\14b32ecd3ecf48806cb41d5c8def231a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\1\167bf3649cb2b61d1f17a74a7a7d819a.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\1\167bf3649cb2b61d1f17a74a7a7d819a.bin
-    projectPath: Library\ShaderCache\1\167bf3649cb2b61d1f17a74a7a7d819a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\1\16f7b6eabff1aebbc4c1c58daabaccf2.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\1\16f7b6eabff1aebbc4c1c58daabaccf2.bin
-    projectPath: Library\ShaderCache\1\16f7b6eabff1aebbc4c1c58daabaccf2.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\1\19f6bdf91690032a83a3388bfb7b20a4.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\1\19f6bdf91690032a83a3388bfb7b20a4.bin
-    projectPath: Library\ShaderCache\1\19f6bdf91690032a83a3388bfb7b20a4.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\2\207af1274c9881b1070f17939350500e.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\2\207af1274c9881b1070f17939350500e.bin
-    projectPath: Library\ShaderCache\2\207af1274c9881b1070f17939350500e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\2\21774b937b3321c106bde2f936aa2d67.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\2\21774b937b3321c106bde2f936aa2d67.bin
-    projectPath: Library\ShaderCache\2\21774b937b3321c106bde2f936aa2d67.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\2\2c9116cddb3c4afde5178412aee638ad.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\2\2c9116cddb3c4afde5178412aee638ad.bin
-    projectPath: Library\ShaderCache\2\2c9116cddb3c4afde5178412aee638ad.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\2\2de8a3ff17d7cc9d6224c5e900c47237.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\2\2de8a3ff17d7cc9d6224c5e900c47237.bin
-    projectPath: Library\ShaderCache\2\2de8a3ff17d7cc9d6224c5e900c47237.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\2\2e13e9e1eb1fc35c4e213acc08559125.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\2\2e13e9e1eb1fc35c4e213acc08559125.bin
-    projectPath: Library\ShaderCache\2\2e13e9e1eb1fc35c4e213acc08559125.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\2\2e4c2f7bb2011d29da5d0e919c8a8d94.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\2\2e4c2f7bb2011d29da5d0e919c8a8d94.bin
-    projectPath: Library\ShaderCache\2\2e4c2f7bb2011d29da5d0e919c8a8d94.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\3\353e5e313c48cfe44b8ba55a11362428.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\3\353e5e313c48cfe44b8ba55a11362428.bin
-    projectPath: Library\ShaderCache\3\353e5e313c48cfe44b8ba55a11362428.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\3\3e4de6fb451242407d09d4ddb50c53d7.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\3\3e4de6fb451242407d09d4ddb50c53d7.bin
-    projectPath: Library\ShaderCache\3\3e4de6fb451242407d09d4ddb50c53d7.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\3\3fb93c955ef4abe8b86349e9e1dc69d6.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\3\3fb93c955ef4abe8b86349e9e1dc69d6.bin
-    projectPath: Library\ShaderCache\3\3fb93c955ef4abe8b86349e9e1dc69d6.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\4\405edfe19ea99ed47bf446a8d0681c05.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\4\405edfe19ea99ed47bf446a8d0681c05.bin
-    projectPath: Library\ShaderCache\4\405edfe19ea99ed47bf446a8d0681c05.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\4\40c4fc81fbb5ff8f7045fa1ee1c78ee6.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\4\40c4fc81fbb5ff8f7045fa1ee1c78ee6.bin
-    projectPath: Library\ShaderCache\4\40c4fc81fbb5ff8f7045fa1ee1c78ee6.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\4\416c0dd739e7677b124f5c3019feee5f.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\4\416c0dd739e7677b124f5c3019feee5f.bin
-    projectPath: Library\ShaderCache\4\416c0dd739e7677b124f5c3019feee5f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\4\4932389dece159e96e91fece58f4cc62.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\4\4932389dece159e96e91fece58f4cc62.bin
-    projectPath: Library\ShaderCache\4\4932389dece159e96e91fece58f4cc62.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\4\4b54f05f2d669790fc5e3eaaed855a88.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\4\4b54f05f2d669790fc5e3eaaed855a88.bin
-    projectPath: Library\ShaderCache\4\4b54f05f2d669790fc5e3eaaed855a88.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\4\4bb895ca165f3c24421ed1ce7f84b6d3.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\4\4bb895ca165f3c24421ed1ce7f84b6d3.bin
-    projectPath: Library\ShaderCache\4\4bb895ca165f3c24421ed1ce7f84b6d3.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\4\4bfe8c20efd7812b1f9592eaa34ebb7e.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\4\4bfe8c20efd7812b1f9592eaa34ebb7e.bin
-    projectPath: Library\ShaderCache\4\4bfe8c20efd7812b1f9592eaa34ebb7e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\4\4c6d5fda96821358a716b0e96987b2c3.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\4\4c6d5fda96821358a716b0e96987b2c3.bin
-    projectPath: Library\ShaderCache\4\4c6d5fda96821358a716b0e96987b2c3.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\4\4d77e3574f4db2b1b29175aeac8eef1e.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\4\4d77e3574f4db2b1b29175aeac8eef1e.bin
-    projectPath: Library\ShaderCache\4\4d77e3574f4db2b1b29175aeac8eef1e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\4\4e9bacd0390315f2a3c001b6bcce7ce9.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\4\4e9bacd0390315f2a3c001b6bcce7ce9.bin
-    projectPath: Library\ShaderCache\4\4e9bacd0390315f2a3c001b6bcce7ce9.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\4\4eb9cca53b79746e45034f1254087ffd.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\4\4eb9cca53b79746e45034f1254087ffd.bin
-    projectPath: Library\ShaderCache\4\4eb9cca53b79746e45034f1254087ffd.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\5\506c76f3c78eaed3e0c1387522ab5fba.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\5\506c76f3c78eaed3e0c1387522ab5fba.bin
-    projectPath: Library\ShaderCache\5\506c76f3c78eaed3e0c1387522ab5fba.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\5\50d2896cd4750ccb6b4f34c23b8c0645.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\5\50d2896cd4750ccb6b4f34c23b8c0645.bin
-    projectPath: Library\ShaderCache\5\50d2896cd4750ccb6b4f34c23b8c0645.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\5\51f4e4e19b7af12c8fb396f8e2de21a1.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\5\51f4e4e19b7af12c8fb396f8e2de21a1.bin
-    projectPath: Library\ShaderCache\5\51f4e4e19b7af12c8fb396f8e2de21a1.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\5\5266de1d0a64d397f78384e64f7907ae.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\5\5266de1d0a64d397f78384e64f7907ae.bin
-    projectPath: Library\ShaderCache\5\5266de1d0a64d397f78384e64f7907ae.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\5\536994e15bcc88a4696499c9f630c38d.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\5\536994e15bcc88a4696499c9f630c38d.bin
-    projectPath: Library\ShaderCache\5\536994e15bcc88a4696499c9f630c38d.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\5\5857dbe45ea783ab8e27bed80b766116.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\5\5857dbe45ea783ab8e27bed80b766116.bin
-    projectPath: Library\ShaderCache\5\5857dbe45ea783ab8e27bed80b766116.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\5\5a6b428130f5d65b5c3adcf3023bb74f.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\5\5a6b428130f5d65b5c3adcf3023bb74f.bin
-    projectPath: Library\ShaderCache\5\5a6b428130f5d65b5c3adcf3023bb74f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\5\5f7564a3749429222b2f3e0df7f6140a.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\5\5f7564a3749429222b2f3e0df7f6140a.bin
-    projectPath: Library\ShaderCache\5\5f7564a3749429222b2f3e0df7f6140a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\6\6054391b3ab974f7e6af82e7f011b796.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\6\6054391b3ab974f7e6af82e7f011b796.bin
-    projectPath: Library\ShaderCache\6\6054391b3ab974f7e6af82e7f011b796.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\6\61ba80ee6ee7aff280c9d538f8d054bd.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\6\61ba80ee6ee7aff280c9d538f8d054bd.bin
-    projectPath: Library\ShaderCache\6\61ba80ee6ee7aff280c9d538f8d054bd.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\6\622296eda235cbf5b0fda860f115ff5e.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\6\622296eda235cbf5b0fda860f115ff5e.bin
-    projectPath: Library\ShaderCache\6\622296eda235cbf5b0fda860f115ff5e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\6\62845374c0d7ef3acd6dc978c2bc2f6b.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\6\62845374c0d7ef3acd6dc978c2bc2f6b.bin
-    projectPath: Library\ShaderCache\6\62845374c0d7ef3acd6dc978c2bc2f6b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\6\635a2c2ad84387f7b818c87de2c51ff1.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\6\635a2c2ad84387f7b818c87de2c51ff1.bin
-    projectPath: Library\ShaderCache\6\635a2c2ad84387f7b818c87de2c51ff1.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\6\63e9c9fa1494a9291f8740bdf69970e8.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\6\63e9c9fa1494a9291f8740bdf69970e8.bin
-    projectPath: Library\ShaderCache\6\63e9c9fa1494a9291f8740bdf69970e8.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\6\650c2ada8188bb6187c3b3aec6cd71a9.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\6\650c2ada8188bb6187c3b3aec6cd71a9.bin
-    projectPath: Library\ShaderCache\6\650c2ada8188bb6187c3b3aec6cd71a9.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\6\65d5eb95a958252aade3e055770464e4.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\6\65d5eb95a958252aade3e055770464e4.bin
-    projectPath: Library\ShaderCache\6\65d5eb95a958252aade3e055770464e4.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\6\6adff56f53c6e489cf1ccf74f3d738f5.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\6\6adff56f53c6e489cf1ccf74f3d738f5.bin
-    projectPath: Library\ShaderCache\6\6adff56f53c6e489cf1ccf74f3d738f5.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\6\6b4460ada4b5fbd1a7153f77541edb29.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\6\6b4460ada4b5fbd1a7153f77541edb29.bin
-    projectPath: Library\ShaderCache\6\6b4460ada4b5fbd1a7153f77541edb29.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\6\6bae2190f80009c35f895c5f285468f7.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\6\6bae2190f80009c35f895c5f285468f7.bin
-    projectPath: Library\ShaderCache\6\6bae2190f80009c35f895c5f285468f7.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\7\7097596af2c6825150f84845d9f10e2a.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\7\7097596af2c6825150f84845d9f10e2a.bin
-    projectPath: Library\ShaderCache\7\7097596af2c6825150f84845d9f10e2a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\7\724169d04ee7d3048ddaef08ae6d3fd4.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\7\724169d04ee7d3048ddaef08ae6d3fd4.bin
-    projectPath: Library\ShaderCache\7\724169d04ee7d3048ddaef08ae6d3fd4.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\7\74e627a2c3044c00f94a4506888b3448.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\7\74e627a2c3044c00f94a4506888b3448.bin
-    projectPath: Library\ShaderCache\7\74e627a2c3044c00f94a4506888b3448.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\7\7785de8074f1d067b25bbcfb14ce6dce.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\7\7785de8074f1d067b25bbcfb14ce6dce.bin
-    projectPath: Library\ShaderCache\7\7785de8074f1d067b25bbcfb14ce6dce.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\7\77da0e14fd9f78ffd18cdb424cf595b0.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\7\77da0e14fd9f78ffd18cdb424cf595b0.bin
-    projectPath: Library\ShaderCache\7\77da0e14fd9f78ffd18cdb424cf595b0.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\7\796de1103b325cb5e3e769b000d846d3.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\7\796de1103b325cb5e3e769b000d846d3.bin
-    projectPath: Library\ShaderCache\7\796de1103b325cb5e3e769b000d846d3.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\7\7bcfab132d9525a05e832ed55fe388e5.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\7\7bcfab132d9525a05e832ed55fe388e5.bin
-    projectPath: Library\ShaderCache\7\7bcfab132d9525a05e832ed55fe388e5.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\7\7c6f6717e91e35c15f6ad712d51f0195.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\7\7c6f6717e91e35c15f6ad712d51f0195.bin
-    projectPath: Library\ShaderCache\7\7c6f6717e91e35c15f6ad712d51f0195.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\7\7d8720b69a8862248ede8bbe488d1a2f.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\7\7d8720b69a8862248ede8bbe488d1a2f.bin
-    projectPath: Library\ShaderCache\7\7d8720b69a8862248ede8bbe488d1a2f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\7\7d8b4c442429c0495de6e3d0be3a00a4.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\7\7d8b4c442429c0495de6e3d0be3a00a4.bin
-    projectPath: Library\ShaderCache\7\7d8b4c442429c0495de6e3d0be3a00a4.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\8\80bcdf9be6258a47f14f98675a83a74b.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\8\80bcdf9be6258a47f14f98675a83a74b.bin
-    projectPath: Library\ShaderCache\8\80bcdf9be6258a47f14f98675a83a74b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\8\81e4843ac76c6b12279918fb7ef0c131.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\8\81e4843ac76c6b12279918fb7ef0c131.bin
-    projectPath: Library\ShaderCache\8\81e4843ac76c6b12279918fb7ef0c131.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\8\839364bfd9f4b4c45a20dc37fae671ae.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\8\839364bfd9f4b4c45a20dc37fae671ae.bin
-    projectPath: Library\ShaderCache\8\839364bfd9f4b4c45a20dc37fae671ae.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\8\8746b69eb3d886b61ef05ca47a81ddda.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\8\8746b69eb3d886b61ef05ca47a81ddda.bin
-    projectPath: Library\ShaderCache\8\8746b69eb3d886b61ef05ca47a81ddda.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\8\87f674a81e073ee3d39b0a07dc350375.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\8\87f674a81e073ee3d39b0a07dc350375.bin
-    projectPath: Library\ShaderCache\8\87f674a81e073ee3d39b0a07dc350375.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\8\8805b399eb5e3d80c4baafd58ff38f7b.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\8\8805b399eb5e3d80c4baafd58ff38f7b.bin
-    projectPath: Library\ShaderCache\8\8805b399eb5e3d80c4baafd58ff38f7b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\8\88b33524107c37b2627b62da2a793bb4.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\8\88b33524107c37b2627b62da2a793bb4.bin
-    projectPath: Library\ShaderCache\8\88b33524107c37b2627b62da2a793bb4.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\8\8b4f82d8cef689d7cd578a7de82d6c6e.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\8\8b4f82d8cef689d7cd578a7de82d6c6e.bin
-    projectPath: Library\ShaderCache\8\8b4f82d8cef689d7cd578a7de82d6c6e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\9\96f360ece8d2c1dbac70c1a6b247c9e2.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\9\96f360ece8d2c1dbac70c1a6b247c9e2.bin
-    projectPath: Library\ShaderCache\9\96f360ece8d2c1dbac70c1a6b247c9e2.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\9\9d1bc55cfa323e1e22b03c902ecd771a.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\9\9d1bc55cfa323e1e22b03c902ecd771a.bin
-    projectPath: Library\ShaderCache\9\9d1bc55cfa323e1e22b03c902ecd771a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\9\9e19c10db51ac5c58b49f3021d734ccf.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\9\9e19c10db51ac5c58b49f3021d734ccf.bin
-    projectPath: Library\ShaderCache\9\9e19c10db51ac5c58b49f3021d734ccf.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\9\9e9fd6a0bdd508be8053f5899b520938.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\9\9e9fd6a0bdd508be8053f5899b520938.bin
-    projectPath: Library\ShaderCache\9\9e9fd6a0bdd508be8053f5899b520938.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\a\a199be6e5f9374829497f7c7ae308d03.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\a\a199be6e5f9374829497f7c7ae308d03.bin
-    projectPath: Library\ShaderCache\a\a199be6e5f9374829497f7c7ae308d03.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\a\a5ddf75b97b9be0e87b3970bca7aabfb.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\a\a5ddf75b97b9be0e87b3970bca7aabfb.bin
-    projectPath: Library\ShaderCache\a\a5ddf75b97b9be0e87b3970bca7aabfb.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\a\a8e6dd46656f2088bac71531a210d9f6.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\a\a8e6dd46656f2088bac71531a210d9f6.bin
-    projectPath: Library\ShaderCache\a\a8e6dd46656f2088bac71531a210d9f6.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\a\aa7ed2fff22829a8b3584e585aaf1268.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\a\aa7ed2fff22829a8b3584e585aaf1268.bin
-    projectPath: Library\ShaderCache\a\aa7ed2fff22829a8b3584e585aaf1268.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\a\ad142f10374b1942c5d6b147af961e59.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\a\ad142f10374b1942c5d6b147af961e59.bin
-    projectPath: Library\ShaderCache\a\ad142f10374b1942c5d6b147af961e59.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\a\ad859c019753efc32b8124fb9be7a0cb.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\a\ad859c019753efc32b8124fb9be7a0cb.bin
-    projectPath: Library\ShaderCache\a\ad859c019753efc32b8124fb9be7a0cb.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\b\b198d918630098ed79e4d7d100e016b2.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\b\b198d918630098ed79e4d7d100e016b2.bin
-    projectPath: Library\ShaderCache\b\b198d918630098ed79e4d7d100e016b2.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\b\b381c994fb84655d3d56571903fdd05a.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\b\b381c994fb84655d3d56571903fdd05a.bin
-    projectPath: Library\ShaderCache\b\b381c994fb84655d3d56571903fdd05a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\b\b46b660ab22bc753b67cbfd8f8f2b40f.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\b\b46b660ab22bc753b67cbfd8f8f2b40f.bin
-    projectPath: Library\ShaderCache\b\b46b660ab22bc753b67cbfd8f8f2b40f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\b\b64f72047445926e23c482aa2950f012.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\b\b64f72047445926e23c482aa2950f012.bin
-    projectPath: Library\ShaderCache\b\b64f72047445926e23c482aa2950f012.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\b\b80598269749491a0ed1dbd4f3004588.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\b\b80598269749491a0ed1dbd4f3004588.bin
-    projectPath: Library\ShaderCache\b\b80598269749491a0ed1dbd4f3004588.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\b\b9f7d68a456de1436d65a500baef1f20.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\b\b9f7d68a456de1436d65a500baef1f20.bin
-    projectPath: Library\ShaderCache\b\b9f7d68a456de1436d65a500baef1f20.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\b\bbb51c73fcd238fe99ed665fdc83836a.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\b\bbb51c73fcd238fe99ed665fdc83836a.bin
-    projectPath: Library\ShaderCache\b\bbb51c73fcd238fe99ed665fdc83836a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\b\bd2a31105dd6bc0e5a141eccbad52dff.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\b\bd2a31105dd6bc0e5a141eccbad52dff.bin
-    projectPath: Library\ShaderCache\b\bd2a31105dd6bc0e5a141eccbad52dff.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\b\bd7c23d4b324110b87b7532e6e7eb622.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\b\bd7c23d4b324110b87b7532e6e7eb622.bin
-    projectPath: Library\ShaderCache\b\bd7c23d4b324110b87b7532e6e7eb622.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\b\be5ad1af9b5db4a32e78acdad05bd185.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\b\be5ad1af9b5db4a32e78acdad05bd185.bin
-    projectPath: Library\ShaderCache\b\be5ad1af9b5db4a32e78acdad05bd185.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\c\c09f3a7d0f596835138f387cefc88a24.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\c\c09f3a7d0f596835138f387cefc88a24.bin
-    projectPath: Library\ShaderCache\c\c09f3a7d0f596835138f387cefc88a24.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\c\c36a9e286f9089d5c52de2de533cd0e3.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\c\c36a9e286f9089d5c52de2de533cd0e3.bin
-    projectPath: Library\ShaderCache\c\c36a9e286f9089d5c52de2de533cd0e3.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\c\c5339605175a591856b892019b756fc5.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\c\c5339605175a591856b892019b756fc5.bin
-    projectPath: Library\ShaderCache\c\c5339605175a591856b892019b756fc5.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\d\d1bafb921db599f26ba131b14bb0e619.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\d\d1bafb921db599f26ba131b14bb0e619.bin
-    projectPath: Library\ShaderCache\d\d1bafb921db599f26ba131b14bb0e619.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\d\d3c6cfb5ce789a11a79dc33ded1407ea.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\d\d3c6cfb5ce789a11a79dc33ded1407ea.bin
-    projectPath: Library\ShaderCache\d\d3c6cfb5ce789a11a79dc33ded1407ea.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\d\da1de7d082fad4f61d90b40cbc677891.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\d\da1de7d082fad4f61d90b40cbc677891.bin
-    projectPath: Library\ShaderCache\d\da1de7d082fad4f61d90b40cbc677891.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\d\db7c64814dbc0577345423b1e3e138cf.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\d\db7c64814dbc0577345423b1e3e138cf.bin
-    projectPath: Library\ShaderCache\d\db7c64814dbc0577345423b1e3e138cf.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\d\dd73370032f1f856d81f5f970df0cfa3.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\d\dd73370032f1f856d81f5f970df0cfa3.bin
-    projectPath: Library\ShaderCache\d\dd73370032f1f856d81f5f970df0cfa3.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\d\df15d2b015310f48d1bcebf141d4b5a3.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\d\df15d2b015310f48d1bcebf141d4b5a3.bin
-    projectPath: Library\ShaderCache\d\df15d2b015310f48d1bcebf141d4b5a3.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\e\e1f2b409e97c1601ce12f2b4f260cff0.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\e\e1f2b409e97c1601ce12f2b4f260cff0.bin
-    projectPath: Library\ShaderCache\e\e1f2b409e97c1601ce12f2b4f260cff0.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\e\e48717ee72bbb5662554658da9cd3dc5.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\e\e48717ee72bbb5662554658da9cd3dc5.bin
-    projectPath: Library\ShaderCache\e\e48717ee72bbb5662554658da9cd3dc5.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\e\e55a4065365037d60fd6632a6c03f925.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\e\e55a4065365037d60fd6632a6c03f925.bin
-    projectPath: Library\ShaderCache\e\e55a4065365037d60fd6632a6c03f925.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\e\e5aac49252be834e78e4303d782f2fd3.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\e\e5aac49252be834e78e4303d782f2fd3.bin
-    projectPath: Library\ShaderCache\e\e5aac49252be834e78e4303d782f2fd3.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\e\e7435a0f305a1311db97c8bef33c2397.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\e\e7435a0f305a1311db97c8bef33c2397.bin
-    projectPath: Library\ShaderCache\e\e7435a0f305a1311db97c8bef33c2397.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\e\e979da81181288d6b1834077bc615000.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\e\e979da81181288d6b1834077bc615000.bin
-    projectPath: Library\ShaderCache\e\e979da81181288d6b1834077bc615000.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\f\f2660a215ddada277c3e2296476b0a3f.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\f\f2660a215ddada277c3e2296476b0a3f.bin
-    projectPath: Library\ShaderCache\f\f2660a215ddada277c3e2296476b0a3f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\f\f2b83d31baac848fb550ea52bd40e126.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\f\f2b83d31baac848fb550ea52bd40e126.bin
-    projectPath: Library\ShaderCache\f\f2b83d31baac848fb550ea52bd40e126.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\f\f4c523d860a1015eba379760f97850d1.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\f\f4c523d860a1015eba379760f97850d1.bin
-    projectPath: Library\ShaderCache\f\f4c523d860a1015eba379760f97850d1.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\f\f6e4e8cff28571849ff8eaa0ba983d55.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\f\f6e4e8cff28571849ff8eaa0ba983d55.bin
-    projectPath: Library\ShaderCache\f\f6e4e8cff28571849ff8eaa0ba983d55.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\f\f942f0dae2ad5508befa0dca7a2d28e0.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\f\f942f0dae2ad5508befa0dca7a2d28e0.bin
-    projectPath: Library\ShaderCache\f\f942f0dae2ad5508befa0dca7a2d28e0.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\f\fa28bbcbe5bf4f73a776e3fd9133a40f.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\f\fa28bbcbe5bf4f73a776e3fd9133a40f.bin
-    projectPath: Library\ShaderCache\f\fa28bbcbe5bf4f73a776e3fd9133a40f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\f\fa99f1f7170a3c8670e2fa76209cc1f5.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\f\fa99f1f7170a3c8670e2fa76209cc1f5.bin
-    projectPath: Library\ShaderCache\f\fa99f1f7170a3c8670e2fa76209cc1f5.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\f\fb7f2802d12c8e6ae55116db71553bb0.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\f\fb7f2802d12c8e6ae55116db71553bb0.bin
-    projectPath: Library\ShaderCache\f\fb7f2802d12c8e6ae55116db71553bb0.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\f\fb959658064123f6cf6085c157a30978.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\f\fb959658064123f6cf6085c157a30978.bin
-    projectPath: Library\ShaderCache\f\fb959658064123f6cf6085c157a30978.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Library\ShaderCache\f\fcb9eb645ad91a1812bbf583dce4355b.bin
-    fullPath: E:\repos2\AntiAirCraft\Library\ShaderCache\f\fcb9eb645ad91a1812bbf583dce4355b.bin
-    projectPath: Library\ShaderCache\f\fcb9eb645ad91a1812bbf583dce4355b.bin
+  - path: AntiAirCraft\Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\Repository\AntiAirCraft\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\LastSceneManagerSetup.txt
+    fullPath: D:\Repository\AntiAirCraft\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\01\01e02995805eb483690380a911a657e2
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\01\01e02995805eb483690380a911a657e2
+    projectPath: Library\metadata\01\01e02995805eb483690380a911a657e2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\01\01e02995805eb483690380a911a657e2.info
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\01\01e02995805eb483690380a911a657e2.info
+    projectPath: Library\metadata\01\01e02995805eb483690380a911a657e2.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\1c\1c306d719be63ef4eb225fac9ae24278
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\1c\1c306d719be63ef4eb225fac9ae24278
+    projectPath: Library\metadata\1c\1c306d719be63ef4eb225fac9ae24278
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\1c\1c306d719be63ef4eb225fac9ae24278.info
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\1c\1c306d719be63ef4eb225fac9ae24278.info
+    projectPath: Library\metadata\1c\1c306d719be63ef4eb225fac9ae24278.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\1c\1cc293d673595ab4f9575458a9aaf1e6
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\1c\1cc293d673595ab4f9575458a9aaf1e6
+    projectPath: Library\metadata\1c\1cc293d673595ab4f9575458a9aaf1e6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\20\201d4380a5fd44bedb60d36ff238128e
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\20\201d4380a5fd44bedb60d36ff238128e
+    projectPath: Library\metadata\20\201d4380a5fd44bedb60d36ff238128e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\22\2240ea29836c20b419087b02636f3508
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\22\2240ea29836c20b419087b02636f3508
+    projectPath: Library\metadata\22\2240ea29836c20b419087b02636f3508
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\22\2240ea29836c20b419087b02636f3508.info
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\22\2240ea29836c20b419087b02636f3508.info
+    projectPath: Library\metadata\22\2240ea29836c20b419087b02636f3508.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\2a\2ac36b77f6e29c340ad597e77ddc5a09
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\2a\2ac36b77f6e29c340ad597e77ddc5a09
+    projectPath: Library\metadata\2a\2ac36b77f6e29c340ad597e77ddc5a09
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\34\3438f55db370e244bb63d1c8804fa1e8
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\34\3438f55db370e244bb63d1c8804fa1e8
+    projectPath: Library\metadata\34\3438f55db370e244bb63d1c8804fa1e8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\37\37d9ee51bcf12b84b8bb3766c40d9d6b
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\37\37d9ee51bcf12b84b8bb3766c40d9d6b
+    projectPath: Library\metadata\37\37d9ee51bcf12b84b8bb3766c40d9d6b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AntiAirCraft\Library\metadata\37\37d9ee51bcf12b84b8bb3766c40d9d6b.info
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\37\37d9ee51bcf12b84b8bb3766c40d9d6b.info
+    projectPath: Library\metadata\37\37d9ee51bcf12b84b8bb3766c40d9d6b.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AntiAirCraft\Library\metadata\3b\3b36794d3bf734f46ab98d208a9f840f
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\3b\3b36794d3bf734f46ab98d208a9f840f
+    projectPath: Library\metadata\3b\3b36794d3bf734f46ab98d208a9f840f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\3b\3b36794d3bf734f46ab98d208a9f840f.info
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\3b\3b36794d3bf734f46ab98d208a9f840f.info
+    projectPath: Library\metadata\3b\3b36794d3bf734f46ab98d208a9f840f.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\3c\3cf132d4fa07f4f0cb2883499c5c7dd0
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\3c\3cf132d4fa07f4f0cb2883499c5c7dd0
+    projectPath: Library\metadata\3c\3cf132d4fa07f4f0cb2883499c5c7dd0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\3c\3cf132d4fa07f4f0cb2883499c5c7dd0.info
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\3c\3cf132d4fa07f4f0cb2883499c5c7dd0.info
+    projectPath: Library\metadata\3c\3cf132d4fa07f4f0cb2883499c5c7dd0.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\3f\3fcda7a16c6147842851187fab9b4be1
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\3f\3fcda7a16c6147842851187fab9b4be1
+    projectPath: Library\metadata\3f\3fcda7a16c6147842851187fab9b4be1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\3f\3fcda7a16c6147842851187fab9b4be1.info
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\3f\3fcda7a16c6147842851187fab9b4be1.info
+    projectPath: Library\metadata\3f\3fcda7a16c6147842851187fab9b4be1.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\45\45b49d927d23bd24795c70cd21a8ca08
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\45\45b49d927d23bd24795c70cd21a8ca08
+    projectPath: Library\metadata\45\45b49d927d23bd24795c70cd21a8ca08
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\46\4649e525cf231e84888f1bc939470739
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\46\4649e525cf231e84888f1bc939470739
+    projectPath: Library\metadata\46\4649e525cf231e84888f1bc939470739
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\46\4649e525cf231e84888f1bc939470739.info
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\46\4649e525cf231e84888f1bc939470739.info
+    projectPath: Library\metadata\46\4649e525cf231e84888f1bc939470739.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\4b\4b2e4025eb680b14e848bd6a3677a21a.info
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\4b\4b2e4025eb680b14e848bd6a3677a21a.info
+    projectPath: Library\metadata\4b\4b2e4025eb680b14e848bd6a3677a21a.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\4c\4c433abcdb28444ebb7bd395ba5c76fc
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\4c\4c433abcdb28444ebb7bd395ba5c76fc
+    projectPath: Library\metadata\4c\4c433abcdb28444ebb7bd395ba5c76fc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\4c\4c433abcdb28444ebb7bd395ba5c76fc.info
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\4c\4c433abcdb28444ebb7bd395ba5c76fc.info
+    projectPath: Library\metadata\4c\4c433abcdb28444ebb7bd395ba5c76fc.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6
+    projectPath: Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6.info
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6.info
+    projectPath: Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\52\52544eaa2c194144ab7b28fa647d781c
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\52\52544eaa2c194144ab7b28fa647d781c
+    projectPath: Library\metadata\52\52544eaa2c194144ab7b28fa647d781c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\52\52544eaa2c194144ab7b28fa647d781c.info
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\52\52544eaa2c194144ab7b28fa647d781c.info
+    projectPath: Library\metadata\52\52544eaa2c194144ab7b28fa647d781c.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\56\568fc47ce4a5fc94fa5a465b0ac82615
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\56\568fc47ce4a5fc94fa5a465b0ac82615
+    projectPath: Library\metadata\56\568fc47ce4a5fc94fa5a465b0ac82615
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\56\568fc47ce4a5fc94fa5a465b0ac82615.info
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\56\568fc47ce4a5fc94fa5a465b0ac82615.info
+    projectPath: Library\metadata\56\568fc47ce4a5fc94fa5a465b0ac82615.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\59\599a5fd92bab81a4ab02e52d0b1b1c60
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\59\599a5fd92bab81a4ab02e52d0b1b1c60
+    projectPath: Library\metadata\59\599a5fd92bab81a4ab02e52d0b1b1c60
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\59\599a5fd92bab81a4ab02e52d0b1b1c60.info
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\59\599a5fd92bab81a4ab02e52d0b1b1c60.info
+    projectPath: Library\metadata\59\599a5fd92bab81a4ab02e52d0b1b1c60.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\5c\5c99cec570bb90c4db42c3a608969eee
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\5c\5c99cec570bb90c4db42c3a608969eee
+    projectPath: Library\metadata\5c\5c99cec570bb90c4db42c3a608969eee
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\5c\5c99cec570bb90c4db42c3a608969eee.info
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\5c\5c99cec570bb90c4db42c3a608969eee.info
+    projectPath: Library\metadata\5c\5c99cec570bb90c4db42c3a608969eee.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\82\822402f846727b24890cc7d5f5430675
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\82\822402f846727b24890cc7d5f5430675
+    projectPath: Library\metadata\82\822402f846727b24890cc7d5f5430675
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\82\822402f846727b24890cc7d5f5430675.info
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\82\822402f846727b24890cc7d5f5430675.info
+    projectPath: Library\metadata\82\822402f846727b24890cc7d5f5430675.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\85\85a13e3349a80184c867d2318b90802c
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\85\85a13e3349a80184c867d2318b90802c
+    projectPath: Library\metadata\85\85a13e3349a80184c867d2318b90802c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\85\85a13e3349a80184c867d2318b90802c.info
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\85\85a13e3349a80184c867d2318b90802c.info
+    projectPath: Library\metadata\85\85a13e3349a80184c867d2318b90802c.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\91\91153dc59b134f84ab7d452f022c7393
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\91\91153dc59b134f84ab7d452f022c7393
+    projectPath: Library\metadata\91\91153dc59b134f84ab7d452f022c7393
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\91\91153dc59b134f84ab7d452f022c7393.info
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\91\91153dc59b134f84ab7d452f022c7393.info
+    projectPath: Library\metadata\91\91153dc59b134f84ab7d452f022c7393.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\a0\a0e6e61468834da4ea64e5e8c2b405ce
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\a0\a0e6e61468834da4ea64e5e8c2b405ce
+    projectPath: Library\metadata\a0\a0e6e61468834da4ea64e5e8c2b405ce
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\a0\a0e6e61468834da4ea64e5e8c2b405ce.info
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\a0\a0e6e61468834da4ea64e5e8c2b405ce.info
+    projectPath: Library\metadata\a0\a0e6e61468834da4ea64e5e8c2b405ce.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\a8\a82d9dcb24cc69c4b90dd59c3e7ec12e
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\a8\a82d9dcb24cc69c4b90dd59c3e7ec12e
+    projectPath: Library\metadata\a8\a82d9dcb24cc69c4b90dd59c3e7ec12e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\a8\a82d9dcb24cc69c4b90dd59c3e7ec12e.info
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\a8\a82d9dcb24cc69c4b90dd59c3e7ec12e.info
+    projectPath: Library\metadata\a8\a82d9dcb24cc69c4b90dd59c3e7ec12e.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\ac\acc34040a66fe4170bc8885268860cfe
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\ac\acc34040a66fe4170bc8885268860cfe
+    projectPath: Library\metadata\ac\acc34040a66fe4170bc8885268860cfe
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\ac\acc34040a66fe4170bc8885268860cfe.info
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\ac\acc34040a66fe4170bc8885268860cfe.info
+    projectPath: Library\metadata\ac\acc34040a66fe4170bc8885268860cfe.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\b9\b990e15d2d35aed41bbd3071ec22775f
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\b9\b990e15d2d35aed41bbd3071ec22775f
+    projectPath: Library\metadata\b9\b990e15d2d35aed41bbd3071ec22775f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\ba\ba3155296cbb4ba40af2afa2c45c4fd4
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\ba\ba3155296cbb4ba40af2afa2c45c4fd4
+    projectPath: Library\metadata\ba\ba3155296cbb4ba40af2afa2c45c4fd4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\ba\ba3155296cbb4ba40af2afa2c45c4fd4.info
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\ba\ba3155296cbb4ba40af2afa2c45c4fd4.info
+    projectPath: Library\metadata\ba\ba3155296cbb4ba40af2afa2c45c4fd4.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\c6\c6424f81d940c644f85fa56a97d8f295
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\c6\c6424f81d940c644f85fa56a97d8f295
+    projectPath: Library\metadata\c6\c6424f81d940c644f85fa56a97d8f295
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\c6\c6424f81d940c644f85fa56a97d8f295.info
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\c6\c6424f81d940c644f85fa56a97d8f295.info
+    projectPath: Library\metadata\c6\c6424f81d940c644f85fa56a97d8f295.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\d5\d592535c9e5b1d043a53a25e3890f501
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\d5\d592535c9e5b1d043a53a25e3890f501
+    projectPath: Library\metadata\d5\d592535c9e5b1d043a53a25e3890f501
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\d5\d592535c9e5b1d043a53a25e3890f501.info
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\d5\d592535c9e5b1d043a53a25e3890f501.info
+    projectPath: Library\metadata\d5\d592535c9e5b1d043a53a25e3890f501.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\db\db9165c0bff44f3468b3b205032ade48
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\db\db9165c0bff44f3468b3b205032ade48
+    projectPath: Library\metadata\db\db9165c0bff44f3468b3b205032ade48
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\db\db9165c0bff44f3468b3b205032ade48.info
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\db\db9165c0bff44f3468b3b205032ade48.info
+    projectPath: Library\metadata\db\db9165c0bff44f3468b3b205032ade48.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\df\dffef66376be4fa480fb02b19edbe903
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\df\dffef66376be4fa480fb02b19edbe903
+    projectPath: Library\metadata\df\dffef66376be4fa480fb02b19edbe903
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\df\dffef66376be4fa480fb02b19edbe903.info
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\df\dffef66376be4fa480fb02b19edbe903.info
+    projectPath: Library\metadata\df\dffef66376be4fa480fb02b19edbe903.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\e1\e103a93a5acd2c14ebfb4eef009ebdc9
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\e1\e103a93a5acd2c14ebfb4eef009ebdc9
+    projectPath: Library\metadata\e1\e103a93a5acd2c14ebfb4eef009ebdc9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\e1\e103a93a5acd2c14ebfb4eef009ebdc9.info
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\e1\e103a93a5acd2c14ebfb4eef009ebdc9.info
+    projectPath: Library\metadata\e1\e103a93a5acd2c14ebfb4eef009ebdc9.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\e8\e848c06579c799141b7fb8105ed1be4f
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\e8\e848c06579c799141b7fb8105ed1be4f
+    projectPath: Library\metadata\e8\e848c06579c799141b7fb8105ed1be4f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\e8\e848c06579c799141b7fb8105ed1be4f.info
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\e8\e848c06579c799141b7fb8105ed1be4f.info
+    projectPath: Library\metadata\e8\e848c06579c799141b7fb8105ed1be4f.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\eb\ebe055b0d99516841876b58c4e9e10a4
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\eb\ebe055b0d99516841876b58c4e9e10a4
+    projectPath: Library\metadata\eb\ebe055b0d99516841876b58c4e9e10a4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\eb\ebe055b0d99516841876b58c4e9e10a4.info
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\eb\ebe055b0d99516841876b58c4e9e10a4.info
+    projectPath: Library\metadata\eb\ebe055b0d99516841876b58c4e9e10a4.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\f2\f29f2d6c8cc565046a31d2268cd4c428
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\f2\f29f2d6c8cc565046a31d2268cd4c428
+    projectPath: Library\metadata\f2\f29f2d6c8cc565046a31d2268cd4c428
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f
+    projectPath: Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f.info
+    fullPath: D:\Repository\AntiAirCraft\Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f.info
+    projectPath: Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: D:\Repository\AntiAirCraft\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: D:\Repository\AntiAirCraft\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    fullPath: D:\Repository\AntiAirCraft\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    fullPath: D:\Repository\AntiAirCraft\Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: D:\Repository\AntiAirCraft\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: D:\Repository\AntiAirCraft\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    fullPath: D:\Repository\AntiAirCraft\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+    fullPath: D:\Repository\AntiAirCraft\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: D:\Repository\AntiAirCraft\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: D:\Repository\AntiAirCraft\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    fullPath: D:\Repository\AntiAirCraft\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.pdb
+    fullPath: D:\Repository\AntiAirCraft\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: D:\Repository\AntiAirCraft\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: D:\Repository\AntiAirCraft\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: D:\Repository\AntiAirCraft\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: D:\Repository\AntiAirCraft\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\ShaderCache\2\294441a83e8a129ea6704997473ca532.bin
+    fullPath: D:\Repository\AntiAirCraft\Library\ShaderCache\2\294441a83e8a129ea6704997473ca532.bin
+    projectPath: Library\ShaderCache\2\294441a83e8a129ea6704997473ca532.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AntiAirCraft\Library\ShaderCache\2\2afaeb339818a72c9c0ac55100ef4c00.bin
+    fullPath: D:\Repository\AntiAirCraft\Library\ShaderCache\2\2afaeb339818a72c9c0ac55100ef4c00.bin
+    projectPath: Library\ShaderCache\2\2afaeb339818a72c9c0ac55100ef4c00.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AntiAirCraft\Library\ShaderCache\3\32c96d8a8027ecfc84f3806bbf37cc99.bin
+    fullPath: D:\Repository\AntiAirCraft\Library\ShaderCache\3\32c96d8a8027ecfc84f3806bbf37cc99.bin
+    projectPath: Library\ShaderCache\3\32c96d8a8027ecfc84f3806bbf37cc99.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AntiAirCraft\Library\ShaderCache\3\365661273665e47f4e2155e659220195.bin
+    fullPath: D:\Repository\AntiAirCraft\Library\ShaderCache\3\365661273665e47f4e2155e659220195.bin
+    projectPath: Library\ShaderCache\3\365661273665e47f4e2155e659220195.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AntiAirCraft\Library\ShaderCache\4\4e5c0c5fe11ddaec31b28ed90f19a76b.bin
+    fullPath: D:\Repository\AntiAirCraft\Library\ShaderCache\4\4e5c0c5fe11ddaec31b28ed90f19a76b.bin
+    projectPath: Library\ShaderCache\4\4e5c0c5fe11ddaec31b28ed90f19a76b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AntiAirCraft\Library\ShaderCache\5\51d850f462d2e9e8e21edd6bcb169455.bin
+    fullPath: D:\Repository\AntiAirCraft\Library\ShaderCache\5\51d850f462d2e9e8e21edd6bcb169455.bin
+    projectPath: Library\ShaderCache\5\51d850f462d2e9e8e21edd6bcb169455.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AntiAirCraft\Library\ShaderCache\5\558c844fb515c90e4abcf50a4068092f.bin
+    fullPath: D:\Repository\AntiAirCraft\Library\ShaderCache\5\558c844fb515c90e4abcf50a4068092f.bin
+    projectPath: Library\ShaderCache\5\558c844fb515c90e4abcf50a4068092f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AntiAirCraft\Library\ShaderCache\6\6701f321fb72f9375f539407d3dd5ec6.bin
+    fullPath: D:\Repository\AntiAirCraft\Library\ShaderCache\6\6701f321fb72f9375f539407d3dd5ec6.bin
+    projectPath: Library\ShaderCache\6\6701f321fb72f9375f539407d3dd5ec6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AntiAirCraft\Library\ShaderCache\6\6a342241ac8d30d58c974be3c8e7cc67.bin
+    fullPath: D:\Repository\AntiAirCraft\Library\ShaderCache\6\6a342241ac8d30d58c974be3c8e7cc67.bin
+    projectPath: Library\ShaderCache\6\6a342241ac8d30d58c974be3c8e7cc67.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AntiAirCraft\Library\ShaderCache\8\893ed1e36c5f593dccc500a0d6d6a759.bin
+    fullPath: D:\Repository\AntiAirCraft\Library\ShaderCache\8\893ed1e36c5f593dccc500a0d6d6a759.bin
+    projectPath: Library\ShaderCache\8\893ed1e36c5f593dccc500a0d6d6a759.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AntiAirCraft\Library\ShaderCache\9\9229799be33c174f0adc08c59496a788.bin
+    fullPath: D:\Repository\AntiAirCraft\Library\ShaderCache\9\9229799be33c174f0adc08c59496a788.bin
+    projectPath: Library\ShaderCache\9\9229799be33c174f0adc08c59496a788.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AntiAirCraft\Library\ShaderCache\9\99b1c0a98aefd6dc13edb661eef567aa.bin
+    fullPath: D:\Repository\AntiAirCraft\Library\ShaderCache\9\99b1c0a98aefd6dc13edb661eef567aa.bin
+    projectPath: Library\ShaderCache\9\99b1c0a98aefd6dc13edb661eef567aa.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AntiAirCraft\Library\ShaderCache\a\a107939d1842da2ce70d00c4795e8466.bin
+    fullPath: D:\Repository\AntiAirCraft\Library\ShaderCache\a\a107939d1842da2ce70d00c4795e8466.bin
+    projectPath: Library\ShaderCache\a\a107939d1842da2ce70d00c4795e8466.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AntiAirCraft\Library\ShaderCache\b\b498940dd38b14cd53bbaef542c5f270.bin
+    fullPath: D:\Repository\AntiAirCraft\Library\ShaderCache\b\b498940dd38b14cd53bbaef542c5f270.bin
+    projectPath: Library\ShaderCache\b\b498940dd38b14cd53bbaef542c5f270.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AntiAirCraft\Library\ShaderCache\b\b640c4840fa7e4d5db7d1c85ab1a1dd0.bin
+    fullPath: D:\Repository\AntiAirCraft\Library\ShaderCache\b\b640c4840fa7e4d5db7d1c85ab1a1dd0.bin
+    projectPath: Library\ShaderCache\b\b640c4840fa7e4d5db7d1c85ab1a1dd0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AntiAirCraft\Library\ShaderCache\b\b9663e2fb2525fb24f05f065dd95e2eb.bin
+    fullPath: D:\Repository\AntiAirCraft\Library\ShaderCache\b\b9663e2fb2525fb24f05f065dd95e2eb.bin
+    projectPath: Library\ShaderCache\b\b9663e2fb2525fb24f05f065dd95e2eb.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AntiAirCraft\Library\ShaderCache\d\d2f2fd21569d16b5c83e060b44746de6.bin
+    fullPath: D:\Repository\AntiAirCraft\Library\ShaderCache\d\d2f2fd21569d16b5c83e060b44746de6.bin
+    projectPath: Library\ShaderCache\d\d2f2fd21569d16b5c83e060b44746de6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AntiAirCraft\Library\ShaderCache\d\d6504b5255f166a20b571c2a9b0aab63.bin
+    fullPath: D:\Repository\AntiAirCraft\Library\ShaderCache\d\d6504b5255f166a20b571c2a9b0aab63.bin
+    projectPath: Library\ShaderCache\d\d6504b5255f166a20b571c2a9b0aab63.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AntiAirCraft\Library\ShaderCache\f\f72bfee3aebc99aa588fbebc7b46a6ab.bin
+    fullPath: D:\Repository\AntiAirCraft\Library\ShaderCache\f\f72bfee3aebc99aa588fbebc7b46a6ab.bin
+    projectPath: Library\ShaderCache\f\f72bfee3aebc99aa588fbebc7b46a6ab.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AntiAirCraft\Library\ShaderCache\f\f751d1c53ac0d32aedfa014c2a810dd8.bin
+    fullPath: D:\Repository\AntiAirCraft\Library\ShaderCache\f\f751d1c53ac0d32aedfa014c2a810dd8.bin
+    projectPath: Library\ShaderCache\f\f751d1c53ac0d32aedfa014c2a810dd8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: AntiAirCraft\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\Repository\AntiAirCraft\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\StateCache\Hierarchy\d4bcb8-d592535c9e5b1d043a.json
+    fullPath: D:\Repository\AntiAirCraft\Library\StateCache\Hierarchy\d4bcb8-d592535c9e5b1d043a.json
+    projectPath: Library\StateCache\Hierarchy\d4bcb8-d592535c9e5b1d043a.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\StateCache\Hierarchy\d4bcb8-e103a93a5acd2c14eb.json
+    fullPath: D:\Repository\AntiAirCraft\Library\StateCache\Hierarchy\d4bcb8-e103a93a5acd2c14eb.json
+    projectPath: Library\StateCache\Hierarchy\d4bcb8-e103a93a5acd2c14eb.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\StateCache\Hierarchy\d4bcb8-mainStage.json
+    fullPath: D:\Repository\AntiAirCraft\Library\StateCache\Hierarchy\d4bcb8-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\d4bcb8-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\StateCache\SceneView\e62657-568fc47ce4a5fc94fa.json
+    fullPath: D:\Repository\AntiAirCraft\Library\StateCache\SceneView\e62657-568fc47ce4a5fc94fa.json
+    projectPath: Library\StateCache\SceneView\e62657-568fc47ce4a5fc94fa.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\StateCache\SceneView\e62657-d592535c9e5b1d043a.json
+    fullPath: D:\Repository\AntiAirCraft\Library\StateCache\SceneView\e62657-d592535c9e5b1d043a.json
+    projectPath: Library\StateCache\SceneView\e62657-d592535c9e5b1d043a.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\StateCache\SceneView\e62657-e103a93a5acd2c14eb.json
+    fullPath: D:\Repository\AntiAirCraft\Library\StateCache\SceneView\e62657-e103a93a5acd2c14eb.json
+    projectPath: Library\StateCache\SceneView\e62657-e103a93a5acd2c14eb.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\Library\StateCache\SceneView\e62657-mainStage.json
+    fullPath: D:\Repository\AntiAirCraft\Library\StateCache\SceneView\e62657-mainStage.json
+    projectPath: Library\StateCache\SceneView\e62657-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    fullPath: D:\Repository\AntiAirCraft\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: D:\Repository\AntiAirCraft\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: AntiAirCraft\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
-    fullPath: E:\repos2\AntiAirCraft\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
+    fullPath: D:\Repository\AntiAirCraft\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
     projectPath: obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AntiAirCraft\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
-    fullPath: E:\repos2\AntiAirCraft\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
+  - path: AntiAirCraft\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+    fullPath: D:\Repository\AntiAirCraft\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: AntiAirCraft\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
-    fullPath: E:\repos2\AntiAirCraft\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    fullPath: D:\Repository\AntiAirCraft\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
     projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AntiAirCraft\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojResolveAssemblyReference.cache
-    fullPath: E:\repos2\AntiAirCraft\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojResolveAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojResolveAssemblyReference.cache
+  - path: AntiAirCraft\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: D:\Repository\AntiAirCraft\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: AntiAirCraft\ProjectSettings\QualitySettings.asset
+    fullPath: D:\Repository\AntiAirCraft\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\ProjectSettings\TagManager.asset
+    fullPath: D:\Repository\AntiAirCraft\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: AntiAirCraft\ProjectSettings\UnityConnectSettings.asset
+    fullPath: D:\Repository\AntiAirCraft\ProjectSettings\UnityConnectSettings.asset
+    projectPath: ProjectSettings\UnityConnectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: AntiAirCraft\Temp\__Backupscenes\0.backup
-    fullPath: E:\repos2\AntiAirCraft\Temp\__Backupscenes\0.backup
+    fullPath: D:\Repository\AntiAirCraft\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AntiAirCraft\Temp\ProcessJobs\43fe55c26a2f89cc8df7c35bbcb42a7f.bakert
-    fullPath: E:\repos2\AntiAirCraft\Temp\ProcessJobs\43fe55c26a2f89cc8df7c35bbcb42a7f.bakert
-    projectPath: Temp\ProcessJobs\43fe55c26a2f89cc8df7c35bbcb42a7f.bakert
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Temp\ProcessJobs\9db3e7f714783a1ee70af12b475f968d.bakert
-    fullPath: E:\repos2\AntiAirCraft\Temp\ProcessJobs\9db3e7f714783a1ee70af12b475f968d.bakert
-    projectPath: Temp\ProcessJobs\9db3e7f714783a1ee70af12b475f968d.bakert
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Temp\ProcessJobs\b89df42499bb84ffb3fe8531d841477f.bakert
-    fullPath: E:\repos2\AntiAirCraft\Temp\ProcessJobs\b89df42499bb84ffb3fe8531d841477f.bakert
-    projectPath: Temp\ProcessJobs\b89df42499bb84ffb3fe8531d841477f.bakert
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Temp\ProcessJobs\ff6fe6627c044da300dbdca5be7ed949.bakert
-    fullPath: E:\repos2\AntiAirCraft\Temp\ProcessJobs\ff6fe6627c044da300dbdca5be7ed949.bakert
-    projectPath: Temp\ProcessJobs\ff6fe6627c044da300dbdca5be7ed949.bakert
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: AntiAirCraft\Temp\UnityLockfile
-    fullPath: E:\repos2\AntiAirCraft\Temp\UnityLockfile
+    fullPath: D:\Repository\AntiAirCraft\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AntiAirCraft\Temp\UnityTempFile-015743817a47de44ca9794b5dee6cb97
-    fullPath: E:\repos2\AntiAirCraft\Temp\UnityTempFile-015743817a47de44ca9794b5dee6cb97
-    projectPath: Temp\UnityTempFile-015743817a47de44ca9794b5dee6cb97
+  - path: AntiAirCraft\Temp\UnityTempFile-6fc05727b9f9f6b46ad09c6d7770936d
+    fullPath: D:\Repository\AntiAirCraft\Temp\UnityTempFile-6fc05727b9f9f6b46ad09c6d7770936d
+    projectPath: Temp\UnityTempFile-6fc05727b9f9f6b46ad09c6d7770936d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AntiAirCraft\Temp\UnityTempFile-09c703649ebd906429b11658948defc6
-    fullPath: E:\repos2\AntiAirCraft\Temp\UnityTempFile-09c703649ebd906429b11658948defc6
-    projectPath: Temp\UnityTempFile-09c703649ebd906429b11658948defc6
+  - path: AntiAirCraft\Temp\UnityTempFile-ac1c311049cf3704abb0cd087457224c
+    fullPath: D:\Repository\AntiAirCraft\Temp\UnityTempFile-ac1c311049cf3704abb0cd087457224c
+    projectPath: Temp\UnityTempFile-ac1c311049cf3704abb0cd087457224c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AntiAirCraft\Temp\UnityTempFile-100423002b33a8642bda3e5aa045a14f
-    fullPath: E:\repos2\AntiAirCraft\Temp\UnityTempFile-100423002b33a8642bda3e5aa045a14f
-    projectPath: Temp\UnityTempFile-100423002b33a8642bda3e5aa045a14f
+  - path: AntiAircrafts.unitypackage
+    fullPath: D:\Repository\AntiAircrafts.unitypackage
+    projectPath: ..\AntiAircrafts.unitypackage
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: AntiAirCraft\Temp\UnityTempFile-14d84bf18d23f5d438e275505f873f8f
-    fullPath: E:\repos2\AntiAirCraft\Temp\UnityTempFile-14d84bf18d23f5d438e275505f873f8f
-    projectPath: Temp\UnityTempFile-14d84bf18d23f5d438e275505f873f8f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Temp\UnityTempFile-2273ad69f093876438328117c775da69
-    fullPath: E:\repos2\AntiAirCraft\Temp\UnityTempFile-2273ad69f093876438328117c775da69
-    projectPath: Temp\UnityTempFile-2273ad69f093876438328117c775da69
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Temp\UnityTempFile-293dd69c7dc630c40afdb8c77092a7ba
-    fullPath: E:\repos2\AntiAirCraft\Temp\UnityTempFile-293dd69c7dc630c40afdb8c77092a7ba
-    projectPath: Temp\UnityTempFile-293dd69c7dc630c40afdb8c77092a7ba
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Temp\UnityTempFile-350a5c7e0ded64b4c8e47ca41bcb1682
-    fullPath: E:\repos2\AntiAirCraft\Temp\UnityTempFile-350a5c7e0ded64b4c8e47ca41bcb1682
-    projectPath: Temp\UnityTempFile-350a5c7e0ded64b4c8e47ca41bcb1682
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Temp\UnityTempFile-3a7f1f8972aec7544bc7298128f787e4
-    fullPath: E:\repos2\AntiAirCraft\Temp\UnityTempFile-3a7f1f8972aec7544bc7298128f787e4
-    projectPath: Temp\UnityTempFile-3a7f1f8972aec7544bc7298128f787e4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Temp\UnityTempFile-432c48bf43f3e114fbaec6f7860a2cba
-    fullPath: E:\repos2\AntiAirCraft\Temp\UnityTempFile-432c48bf43f3e114fbaec6f7860a2cba
-    projectPath: Temp\UnityTempFile-432c48bf43f3e114fbaec6f7860a2cba
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Temp\UnityTempFile-4352601b6b6824c4fbc13bdfff8db636
-    fullPath: E:\repos2\AntiAirCraft\Temp\UnityTempFile-4352601b6b6824c4fbc13bdfff8db636
-    projectPath: Temp\UnityTempFile-4352601b6b6824c4fbc13bdfff8db636
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Temp\UnityTempFile-5ad083e049dc4ca4ea6ccd5326efa0dd
-    fullPath: E:\repos2\AntiAirCraft\Temp\UnityTempFile-5ad083e049dc4ca4ea6ccd5326efa0dd
-    projectPath: Temp\UnityTempFile-5ad083e049dc4ca4ea6ccd5326efa0dd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Temp\UnityTempFile-5fd40b21c0dd27b4c8685fdf2b8f1fda
-    fullPath: E:\repos2\AntiAirCraft\Temp\UnityTempFile-5fd40b21c0dd27b4c8685fdf2b8f1fda
-    projectPath: Temp\UnityTempFile-5fd40b21c0dd27b4c8685fdf2b8f1fda
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Temp\UnityTempFile-632822d0ea533724db69758d31dc9424
-    fullPath: E:\repos2\AntiAirCraft\Temp\UnityTempFile-632822d0ea533724db69758d31dc9424
-    projectPath: Temp\UnityTempFile-632822d0ea533724db69758d31dc9424
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Temp\UnityTempFile-82bb8a8fa7d90ad4497550f4364cd39c
-    fullPath: E:\repos2\AntiAirCraft\Temp\UnityTempFile-82bb8a8fa7d90ad4497550f4364cd39c
-    projectPath: Temp\UnityTempFile-82bb8a8fa7d90ad4497550f4364cd39c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Temp\UnityTempFile-85992e1965ffd7f49b66422d273e10c9
-    fullPath: E:\repos2\AntiAirCraft\Temp\UnityTempFile-85992e1965ffd7f49b66422d273e10c9
-    projectPath: Temp\UnityTempFile-85992e1965ffd7f49b66422d273e10c9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Temp\UnityTempFile-9c027983598ea9847ae3f71273bf4dc4
-    fullPath: E:\repos2\AntiAirCraft\Temp\UnityTempFile-9c027983598ea9847ae3f71273bf4dc4
-    projectPath: Temp\UnityTempFile-9c027983598ea9847ae3f71273bf4dc4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Temp\UnityTempFile-b4c03647f02dc9f4eaab6e1951c82fe9
-    fullPath: E:\repos2\AntiAirCraft\Temp\UnityTempFile-b4c03647f02dc9f4eaab6e1951c82fe9
-    projectPath: Temp\UnityTempFile-b4c03647f02dc9f4eaab6e1951c82fe9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Temp\UnityTempFile-b9595657e827b454980ffc3bf9c12cd8
-    fullPath: E:\repos2\AntiAirCraft\Temp\UnityTempFile-b9595657e827b454980ffc3bf9c12cd8
-    projectPath: Temp\UnityTempFile-b9595657e827b454980ffc3bf9c12cd8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Temp\UnityTempFile-d8bf84bb4702b924cada8d482650489a
-    fullPath: E:\repos2\AntiAirCraft\Temp\UnityTempFile-d8bf84bb4702b924cada8d482650489a
-    projectPath: Temp\UnityTempFile-d8bf84bb4702b924cada8d482650489a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Temp\UnityTempFile-d9d22ad7513ff2e4abeaa74e8d1635cd
-    fullPath: E:\repos2\AntiAirCraft\Temp\UnityTempFile-d9d22ad7513ff2e4abeaa74e8d1635cd
-    projectPath: Temp\UnityTempFile-d9d22ad7513ff2e4abeaa74e8d1635cd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Temp\UnityTempFile-e2edab9398f810342b5bd0759341ba67
-    fullPath: E:\repos2\AntiAirCraft\Temp\UnityTempFile-e2edab9398f810342b5bd0759341ba67
-    projectPath: Temp\UnityTempFile-e2edab9398f810342b5bd0759341ba67
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: AntiAirCraft\Temp\UnityTempFile-e9d148132f4726a42a5b16bb4df86da5
-    fullPath: E:\repos2\AntiAirCraft\Temp\UnityTempFile-e9d148132f4726a42a5b16bb4df86da5
-    projectPath: Temp\UnityTempFile-e9d148132f4726a42a5b16bb4df86da5
+  - path: gameScene.unitypackage
+    fullPath: D:\Repository\gameScene.unitypackage
+    projectPath: ..\gameScene.unitypackage
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
