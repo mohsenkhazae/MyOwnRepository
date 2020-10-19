@@ -65,7 +65,6 @@
     <Compile Include="Assets\RTS_Camera\Demo\DemoScene.cs" />
     <Compile Include="Assets\RTS_Camera\Demo\TargetSelector.cs" />
     <Compile Include="Assets\RTS_Camera\Scripts\RTS_Camera.cs" />
-    <Compile Include="Assets\SimpleCloudSystem by RM\SCS.cs" />
     <Compile Include="Assets\WeatherMaker\Demo\DemoResources\Scripts\WeatherMakerDemoAnimateMoveScript.cs" />
     <Compile Include="Assets\WeatherMaker\Demo\DemoResources\Scripts\WeatherMakerDemoReflectionProbeScript.cs" />
     <Compile Include="Assets\WeatherMaker\Demo\DemoResources\Scripts\WeatherMakerDemoScript2D.cs" />
@@ -187,6 +186,8 @@
     <Compile Include="Assets\WeatherMaker\Prefab\Scripts\Weather\WeatherMakerWetnessOverlayProfileScript.cs" />
     <Compile Include="Assets\WeatherMaker\Prefab\Scripts\Weather\WeatherMakerWindProfileScript.cs" />
     <Compile Include="Assets\WeatherMaker\Prefab\Scripts\Weather\WeatherMakerWindScript.cs" />
+    <Compile Include="Assets\rotateAround.cs" />
+    <Compile Include="Assets\rotateCloud.cs" />
     <None Include="Assets\RTS_Camera\Demo\Projectors\Shaders\ProjectorLight.shader" />
     <None Include="Assets\RTS_Camera\Demo\Projectors\Shaders\ProjectorMultiply.shader" />
     <None Include="Assets\WeatherMaker\Prefab\Shaders\WeatherMakerAdvancedNoiseShaderInclude.cginc" />
@@ -240,9 +241,6 @@
     <None Include="Assets\WeatherMaker\Prefab\Shaders\WeatherMakerCloudParticleShader.shader" />
     <None Include="Assets\WeatherMaker\Prefab\Shaders\WeatherMakerWaterTesselationShader.shader" />
     <None Include="Assets\WeatherMaker\Prefab\Shaders\WeatherMakerFogExternalShaderInclude.cginc" />
-    <None Include="Assets\SimpleCloudSystem by RM\SCS Instructions.txt" />
-    <None Include="Assets\[BFW]SimpleDynamicClouds\ReadMe.txt" />
-    <None Include="Assets\[BFW]SimpleDynamicClouds\Shaders\2DClouds.shader" />
     <None Include="Assets\WeatherMaker\Prefab\Shaders\WeatherMakerFullScreenWetnessOverlayShader.shader" />
     <None Include="Assets\WeatherMaker\Prefab\Shaders\WeatherMakerSunShader.shader" />
     <None Include="Assets\WeatherMaker\Prefab\Shaders\WeatherMakerLightningBoltShaderNoGlow.shader" />
@@ -252,7 +250,6 @@
     <None Include="Assets\WeatherMaker\Prefab\Shaders\WeatherMakerAnimated3DTextureShader.shader" />
     <None Include="Assets\WeatherMaker\Prefab\Shaders\WeatherMakerFullScreenOverlayShader.shader" />
     <None Include="Assets\WeatherMaker\Prefab\Shaders\WeatherMakerCloudNoiseShaderInclude.cginc" />
-    <None Include="Assets\SimpleCloudSystem by RM\Read Me.txt" />
     <None Include="Assets\WeatherMaker\Prefab\Shaders\WeatherMakerWeatherMapShader.shader" />
     <None Include="Assets\WeatherMaker\Prefab\Shaders\WeatherMakerScreenSpaceShadowsShader.shader" />
     <Reference Include="UnityEngine">
@@ -437,6 +434,15 @@
     </Reference>
     <Reference Include="UnityEditor">
       <HintPath>C:/Program Files/Unity2019.4.8/Editor/Data/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.Editor">
+      <HintPath>G:/mohsen/Repository/WeatherSystem/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.Tracker">
+      <HintPath>G:/mohsen/Repository/WeatherSystem/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Tracker.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.StandardEvents">
+      <HintPath>G:/mohsen/Repository/WeatherSystem/Library/PackageCache/com.unity.analytics@3.3.5/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity2019.4.8/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -793,31 +799,67 @@
       <HintPath>C:/Program Files/Unity2019.4.8/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>E:/mohsen/WeatherSystem/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>G:/mohsen/Repository/WeatherSystem/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Monetization">
+      <HintPath>G:/mohsen/Repository/WeatherSystem/Library/ScriptAssemblies/UnityEngine.Monetization.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.multiplayer-hlapi.Editor">
+      <HintPath>G:/mohsen/Repository/WeatherSystem/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>E:/mohsen/WeatherSystem/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>G:/mohsen/Repository/WeatherSystem/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Advertisements">
+      <HintPath>G:/mohsen/Repository/WeatherSystem/Library/ScriptAssemblies/UnityEngine.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>E:/mohsen/WeatherSystem/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>G:/mohsen/Repository/WeatherSystem/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>E:/mohsen/WeatherSystem/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>G:/mohsen/Repository/WeatherSystem/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>E:/mohsen/WeatherSystem/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>G:/mohsen/Repository/WeatherSystem/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>E:/mohsen/WeatherSystem/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>G:/mohsen/Repository/WeatherSystem/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.multiplayer-weaver.Editor">
+      <HintPath>G:/mohsen/Repository/WeatherSystem/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.XR.LegacyInputHelpers">
+      <HintPath>G:/mohsen/Repository/WeatherSystem/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>E:/mohsen/WeatherSystem/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>G:/mohsen/Repository/WeatherSystem/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Sprite.Editor">
+      <HintPath>G:/mohsen/Repository/WeatherSystem/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Tilemap.Editor">
+      <HintPath>G:/mohsen/Repository/WeatherSystem/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.SpatialTracking">
+      <HintPath>G:/mohsen/Repository/WeatherSystem/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SpatialTracking">
+      <HintPath>G:/mohsen/Repository/WeatherSystem/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>E:/mohsen/WeatherSystem/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>G:/mohsen/Repository/WeatherSystem/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.DataPrivacy">
+      <HintPath>G:/mohsen/Repository/WeatherSystem/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.XR.LegacyInputHelpers">
+      <HintPath>G:/mohsen/Repository/WeatherSystem/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>E:/mohsen/WeatherSystem/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>G:/mohsen/Repository/WeatherSystem/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.multiplayer-hlapi.Runtime">
+      <HintPath>G:/mohsen/Repository/WeatherSystem/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup></ItemGroup>
